@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Тема3\Тема3\bin\Debug\net10.0\Тема3.deps.json
+C:\Users\Admin\Desktop\Тема3\Тема3\bin\Debug\net10.0\Тема3.dll
+C:\Users\Admin\Desktop\Тема3\Тема3\bin\Debug\net10.0\Тема3.pdb
+C:\Users\Admin\Desktop\Тема3\Тема3\obj\Debug\net10.0\Тема3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Тема3\Тема3\obj\Debug\net10.0\Тема3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Тема3\Тема3\obj\Debug\net10.0\Тема3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Тема3\Тема3\obj\Debug\net10.0\Тема3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Тема3\Тема3\obj\Debug\net10.0\Тема3.dll
+C:\Users\Admin\Desktop\Тема3\Тема3\obj\Debug\net10.0\refint\Тема3.dll
+C:\Users\Admin\Desktop\Тема3\Тема3\obj\Debug\net10.0\Тема3.pdb
+C:\Users\Admin\Desktop\Тема3\Тема3\obj\Debug\net10.0\ref\Тема3.dll
+C:\Users\Admin\Desktop\Тема3\Тема3\obj\Debug\net10.0\Тема3.csproj.Up2Date

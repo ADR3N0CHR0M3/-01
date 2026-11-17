@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Приложение/Приложение.csproj" />
+  <Project Path="Тема3/Тема3.csproj" />
+</Solution>
