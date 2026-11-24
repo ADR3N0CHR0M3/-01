@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Тема4\Тема4\bin\Debug\net10.0\Тема4.exe
+C:\Users\Admin\Desktop\Тема4\Тема4\bin\Debug\net10.0\Тема4.deps.json
+C:\Users\Admin\Desktop\Тема4\Тема4\bin\Debug\net10.0\Тема4.runtimeconfig.json
+C:\Users\Admin\Desktop\Тема4\Тема4\bin\Debug\net10.0\Тема4.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Тема4\Тема4\bin\Debug\net10.0\Тема4.dll
+C:\Users\Admin\Desktop\Тема4\Тема4\bin\Debug\net10.0\Тема4.pdb
+C:\Users\Admin\Desktop\Тема4\Тема4\obj\Debug\net10.0\Тема4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Тема4\Тема4\obj\Debug\net10.0\Тема4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Тема4\Тема4\obj\Debug\net10.0\Тема4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Тема4\Тема4\obj\Debug\net10.0\Тема4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Тема4\Тема4\obj\Debug\net10.0\Тема4.dll
+C:\Users\Admin\Desktop\Тема4\Тема4\obj\Debug\net10.0\refint\Тема4.dll
+C:\Users\Admin\Desktop\Тема4\Тема4\obj\Debug\net10.0\Тема4.pdb
+C:\Users\Admin\Desktop\Тема4\Тема4\obj\Debug\net10.0\Тема4.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Тема4\Тема4\obj\Debug\net10.0\ref\Тема4.dll
+C:\Users\Admin\Desktop\Тема4\Тема4\obj\Debug\net10.0\Тема4.csproj.Up2Date

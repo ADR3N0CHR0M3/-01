@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Тема6\Тема6\bin\Debug\net10.0\Тема6.exe
+C:\Users\Admin\Desktop\Тема6\Тема6\bin\Debug\net10.0\Тема6.deps.json
+C:\Users\Admin\Desktop\Тема6\Тема6\bin\Debug\net10.0\Тема6.runtimeconfig.json
+C:\Users\Admin\Desktop\Тема6\Тема6\bin\Debug\net10.0\Тема6.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Тема6\Тема6\bin\Debug\net10.0\Тема6.dll
+C:\Users\Admin\Desktop\Тема6\Тема6\bin\Debug\net10.0\Тема6.pdb
+C:\Users\Admin\Desktop\Тема6\Тема6\obj\Debug\net10.0\Тема6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Тема6\Тема6\obj\Debug\net10.0\Тема6.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Тема6\Тема6\obj\Debug\net10.0\Тема6.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Тема6\Тема6\obj\Debug\net10.0\Тема6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Тема6\Тема6\obj\Debug\net10.0\Тема6.dll
+C:\Users\Admin\Desktop\Тема6\Тема6\obj\Debug\net10.0\refint\Тема6.dll
+C:\Users\Admin\Desktop\Тема6\Тема6\obj\Debug\net10.0\Тема6.pdb
+C:\Users\Admin\Desktop\Тема6\Тема6\obj\Debug\net10.0\Тема6.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Тема6\Тема6\obj\Debug\net10.0\ref\Тема6.dll
+C:\Users\Admin\Desktop\Тема6\Тема6\obj\Debug\net10.0\Тема6.csproj.Up2Date
